@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">새 연락처 만들기</string>
+    <string name="title">Send and receive SMS from Messenger</string>
+    <string name="content">Manage all of yout convensations in one place and use stickers</string>
+    <string name="ok">OK</string>
+    <string name="setting">Setting</string>
+</resources>
