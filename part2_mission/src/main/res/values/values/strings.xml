@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">새 연락처 만들기</string>
+    <string name="title">Messenger에서 SMS를 주고 받아 보세요</string>
+    <string name="content">모든 대화를 한곳에서 관리하고 스티커를 기능도 사용해보세요</string>
+    <string name="ok">확인</string>
+    <string name="setting">설정</string>
+</resources>
