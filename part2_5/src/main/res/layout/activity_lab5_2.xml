@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Lab5_2Activity">
+
+
+    <Button
+        android:id="@+id/alertd"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="alert" />
+
+    <Button
+        android:id="@+id/listd"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="list" />
+
+    <Button
+        android:id="@+id/progressd"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="progress" />
+
+    <Button
+        android:id="@+id/dated"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="date" />
+
+    <Button
+        android:id="@+id/timed"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="time" />
+
+    <Button
+        android:id="@+id/customd"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="custom" />
+</LinearLayout>
