@@ -12,10 +12,10 @@ public class MainActivity extends AppCompatActivity implements OnMyChangeListene
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        MyPlusMinusView plusMinusView=findViewById(R.id.customView);
-        barView=findViewById(R.id.barView);
+//        MyPlusMinusView plusMinusView=findViewById(R.id.customView);
+//        barView=findViewById(R.id.barView);
 
-        plusMinusView.setOnMyChangeListener(this);
+//        plusMinusView.setOnMyChangeListener(this);
     }
 
     @Override
