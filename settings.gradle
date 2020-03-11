@@ -1,1 +1,1 @@
-include ':app', ':part2_3', ':part2_4', ':part2_5', ':part2_6', ':part2_7', ':part2_final', ':part2_mission', ':part3_8', ':part3_9', ':part3_mission', ':part4_10', ':part4_11', ':part4_12', ':part4_13', ':part4_mission', ':part5_14', ':part5_15', ':part5_16', ':part5_mission'
+include ':app', ':part2_3', ':part2_4', ':part2_5', ':part2_6', ':part2_7', ':part2_final', ':part2_mission', ':part3_8', ':part3_9', ':part3_mission', ':part4_10', ':part4_11', ':part4_12', ':part4_13', ':part4_mission', ':part5_14', ':part5_15', ':part5_16', ':part5_mission', ':part6_17'
